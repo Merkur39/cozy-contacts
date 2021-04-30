@@ -3509,10 +3509,10 @@ cozy-release@1.10.0:
   dependencies:
     exec-sh "0.3.2"
 
-cozy-scripts@5.4.2:
-  version "5.4.2"
-  resolved "https://registry.yarnpkg.com/cozy-scripts/-/cozy-scripts-5.4.2.tgz#db1ffda0d4270312bd8604f6d01e956607d73c23"
-  integrity sha512-NCaAJU0hnEYAt3mfX6cxG9/eb0J+hBVQFT4AgD5dG1QikJJu1i8Zd2byGMvkS1wr4UhULyoKZyPQZyOTWcCFBA==
+cozy-scripts@5.6.0:
+  version "5.6.0"
+  resolved "https://registry.yarnpkg.com/cozy-scripts/-/cozy-scripts-5.6.0.tgz#ab96ffbfb9a8ba408c1b817d6b489532dae00b27"
+  integrity sha512-YbhMlTqJMQgGV5uFxNWJIxkc1locUXQdNO8D2ZsxoNKocCL3mcRYSeOsekos6/o1GuQ+hzQebpvTV92J8c/T/w==
   dependencies:
     "@babel/core" "7.9.0"
     "@babel/polyfill" "^7.10.4"
